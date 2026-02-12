@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-<!--
-**dmappe/dmappe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+This is my portfolio where I share my projects, skills, and learning journey.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌍 Based in Colombia
+- 💻 Passionate about data anlysis and project management
+- 📚 Currently learning SQL, Python, Tableau, and enhacing my skills in Excel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Leadership development
+- Business decision making
+- SQL & Python
+- Git & GitHub basics
+
+## 📂 Projects
+- [Portfolio Website](https://github.com/dmappe/portfolio) – My personal site
+- [Data Visualization](https://github.com/dmappe/data-viz) – Charts and graphs with Python
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/diego-m-107314208/]
+- Email: diegomappe@email.com
