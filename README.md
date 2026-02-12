@@ -20,4 +20,4 @@ This is my portfolio where I share my projects, skills, and learning journey.
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/diego-m-107314208/]
-- Email: diegomappe@email.com
+- Email: diegomappe@gmail.com
