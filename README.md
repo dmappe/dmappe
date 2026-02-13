@@ -7,15 +7,22 @@ This is my portfolio where I share my projects, skills, and learning journey.
 - 🌍 Based in Colombia
 - 💻 Passionate about data anlysis and project management
 - 📚 Currently learning SQL, Python, Tableau, and enhacing my skills in Excel.
-
+- 
 ## 🛠️ Skills
-- Leadership development
-- Business decision making
-- SQL & Python
+
+**Programming & Data**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-- Git & GitHub basics
+
+**Tools**
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Professional Skills**
+- Leadership development  
+- Business decision making
+
 
 
 ## 📂 Projects
