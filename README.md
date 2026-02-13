@@ -7,7 +7,7 @@ This is my portfolio where I share my projects, skills, and learning journey.
 - 🌍 Based in Colombia
 - 💻 Passionate about data anlysis and project management
 - 📚 Currently learning SQL, Python, Tableau, and enhacing my skills in Excel.
-- 
+  
 ## 🛠️ Skills
 
 **Programming & Data**
