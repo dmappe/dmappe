@@ -12,8 +12,11 @@ This is my portfolio where I share my projects, skills, and learning journey.
 - Leadership development
 - Business decision making
 - SQL & Python
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 - Git & GitHub basics
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ## 📂 Projects
 - [Portfolio Website](https://github.com/dmappe/portfolio) – My personal site
