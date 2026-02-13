@@ -27,7 +27,7 @@ This is my portfolio where I share my projects, skills, and learning journey.
 
 ## 📂 Projects
 - [Vehicle Data Visualization App](https://github.com/dmappe/Project_1.md)
-- [Video Game Sales & Ratings Analysis](https://github.com/dmappe/Project_2.md)
+- [Video Game Sales & Ratings Analysis](https://github.com/dmappe/Project_2)
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/diego-m-107314208/]
