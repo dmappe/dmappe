@@ -26,7 +26,7 @@ This is my portfolio where I share my projects, skills, and learning journey.
 
 
 ## 📂 Projects
-- [Portfolio Website](https://github.com/dmappe/portfolio) – My personal site
+- [github.com/dmappe/portfolio](https://github.com/dmappe/Project_1.md)) – Vehicle Data Visualization App
 - [Data Visualization](https://github.com/dmappe/data-viz) – Charts and graphs with Python
 
 ## 📫 Contact
